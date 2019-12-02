@@ -1,5 +1,6 @@
-sushi one??
-shark??
-toast
+array.length (for loop)
 
-//type simple perler beads 
+each row = a new div (for loop)
+a for inside a for
+
+array[row][column] == 0/1/3 (etc.) - its a recurtion (if)
